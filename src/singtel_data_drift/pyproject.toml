@@ -1,0 +1,11 @@
+[project]
+name = "singtel-data-drift"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "lightgbm>=4.6.0",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+]
